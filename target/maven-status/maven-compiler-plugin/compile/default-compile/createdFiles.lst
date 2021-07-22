@@ -1,0 +1,3 @@
+com\dash\entities\User.class
+com\dash\config\SpringDataJpaConfig.class
+com\dash\dao\IUserDao.class
